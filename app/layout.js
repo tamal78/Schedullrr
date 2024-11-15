@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Schedulrr",
-  description: " ",
+  description: "Your Goto Schedule Platform for all your events",
 };
 
 export default function RootLayout({ children }) {
