@@ -96,9 +96,9 @@ Make sure you have the following installed:
 
 ---
 
-## 📸 Screenshot
+## 📸 Dashboard Preview
 
-![Schedulrr Preview]()
+![Schedulrr Preview](https://i.ibb.co/F4bm5rj/Screenshot-2024-11-20-131252.png)
 
 ---
 
